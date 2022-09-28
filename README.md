@@ -14,6 +14,8 @@ npx hardhat run scripts/deploy.ts
 
 ## Development
 
+1. Copy `.env.sample` to `.env`
+
 1. Compile the Contracts
 
    ```shell
