@@ -39,3 +39,8 @@ npx hardhat run scripts/deploy.ts
    ```shell
      yarn dev:api
    ```
+
+## Improvements
+
+- Write more test cases for smart contract.
+- Dockerizing the dev environment.
